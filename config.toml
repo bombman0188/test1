@@ -1,0 +1,12 @@
+[bombcrypto]
+name = "srv-02"
+server = "10.0.0.1"
+port = 9999
+app_url = "https://app.bombcrypto.io"
+browser_path = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+
+git_username = "bombman0188"
+git_password = "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"
+git_url = "https://github.com/bombman0188/test2"
+script_path = "C:\\Users\\power\\Desktop\\bomb\\test\\BombClient"
+script_file = "main.py"
